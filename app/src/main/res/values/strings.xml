@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Date Range Picker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="but_done">Done</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_tab_start_date">Start Time</string>
+    <string name="ttile_tab_end_date">End Time</string>
+</resources>
