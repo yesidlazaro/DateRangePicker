@@ -1,5 +1,8 @@
 # DateRangePicker
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-DateRangePicker-green.svg?style=flat)](https://android-arsenal.com/details/1/2353)
 A Dialogo fragment with date pickers which can be used to select a time range.
+
+
 ### Including in your project
 Just add the following class to your project [DateRangePickerFragment](https://github.com/yesidlazaro/DateRangePicker/blob/master/app/src/main/java/com/lazaroyesid/daterangepicker/fragments/DateRangePickerFragment.java) 
 ### Description
