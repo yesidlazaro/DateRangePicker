@@ -6,28 +6,28 @@
         jumboMode="false"
         revision="22.0.1"
         sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="/Users/yesidlazaro/repositories/DateRangePicker/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-991f21528e9b360056b4d5c4424a72b34ca55723.jar" />
+        <dex dex="/Users/yesidlazaro/repositories/DateRangePicker/DateRangePicker/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-991f21528e9b360056b4d5c4424a72b34ca55723.jar" />
     </item>
     <item
-        jar="/Users/yesidlazaro/repositories/DateRangePicker/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/Users/yesidlazaro/repositories/DateRangePicker/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-9a4932c3a5199d847fbc6ffd6cbe25c1f53c8c37.jar" />
-    </item>
-    <item
-        jar="/Users/yesidlazaro/repositories/DateRangePicker/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/Users/yesidlazaro/repositories/DateRangePicker/app/build/intermediates/pre-dexed/debug/classes-36672450845554f70f934de0cbc94e0afbd9d9ab.jar" />
-    </item>
-    <item
-        jar="/Users/yesidlazaro/repositories/DateRangePicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jar="/Users/yesidlazaro/repositories/DateRangePicker/DateRangePicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="/Users/yesidlazaro/repositories/DateRangePicker/app/build/intermediates/pre-dexed/debug/classes-3162225808afbf655c3be15e8e721589ec6ecf10.jar" />
+        <dex dex="/Users/yesidlazaro/repositories/DateRangePicker/DateRangePicker/app/build/intermediates/pre-dexed/debug/classes-e3fb18c1b5c66cc8924fc81c181452f1d06a98cb.jar" />
+    </item>
+    <item
+        jar="/Users/yesidlazaro/repositories/DateRangePicker/DateRangePicker/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/yesidlazaro/repositories/DateRangePicker/DateRangePicker/app/build/intermediates/pre-dexed/debug/classes-53854c95286314997f8775b943844842cbd46b3c.jar" />
+    </item>
+    <item
+        jar="/Users/yesidlazaro/repositories/DateRangePicker/DateRangePicker/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/yesidlazaro/repositories/DateRangePicker/DateRangePicker/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-6aa971a65d01c915f50f8ae42244481b2bcfc296.jar" />
     </item>
 
 </items>
